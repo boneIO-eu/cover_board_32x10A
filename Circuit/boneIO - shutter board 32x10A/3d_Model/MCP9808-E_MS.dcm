@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP9808-E_MS
+D +/-0.5C Maximum Accuracy Digital Temperature Sensor
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA18/383780.pdf
+$ENDCMP
+#
+#End Doc Library
